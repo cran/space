@@ -1,0 +1,11 @@
+f940e7b45fa7eeff770fa003711976e0 *DESCRIPTION
+7c2aeb0b105cff448f5580ef10f0f7e2 *INDEX
+08f2115067c65c4ee58bdc97511983b8 *NAMESPACE
+5bf0461614d6bf357f0ffe99ffde0af1 *R/space.R
+b746b8f2e373f231180866da2de32729 *data/datalist
+4c3198db6e6421ec1a3aa192dbc4db14 *data/spaceSimu.rda
+c280b80a66dbcd006d347caa8fe77fe1 *man/space.joint.Rd
+57c53d9b61fb3d0e33eac56d112cf8c6 *man/space.neighbor.Rd
+575626a70a7ed3bc84f2258daadb457a *man/spaceSimu.Rd
+b936bdb4494a393e658737b3a635a569 *src/JSRM.c
+d0ed0661a43e2a9a9a488757886bb223 *src/MBshoot.c
